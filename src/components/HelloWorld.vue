@@ -21,6 +21,8 @@
 </template>
 
 <script>
+import BookList from './components/BookList';
+
 export default {
   name: 'HelloWorld',
   data() {
